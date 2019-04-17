@@ -13,7 +13,7 @@
   ###在f.write(doctype)下面添加一行
   f.write(charset)
   ```
-  
+  ![](https://github.com/yabolu/python-Pyh-chinese-garble/blob/master/pyh.png)
 ##### 2. 安装
   
   ```
